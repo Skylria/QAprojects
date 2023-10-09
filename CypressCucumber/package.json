@@ -1,0 +1,23 @@
+{
+  "name": "cypresscucumber",
+  "version": "1.0.0",
+  "description": "Accenture Automated test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber",
+    "BDD"
+  ],
+  "author": "Juliana Venâncio",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.2.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

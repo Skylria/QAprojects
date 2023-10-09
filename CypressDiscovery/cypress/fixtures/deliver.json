@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Fernando Papito",
+        "cpf": "00000014141",
+        "email": "teste@teste.com",
+        "whatsapp": "81999999999",
+        "address": {
+            "postalcode": "53525-775",
+            "street": "Rua do José Jucá",
+            "number": "90",
+            "details": "90 B",
+            "district": "Centro",
+            "city_state": "Abreu e Lima/PE"
+    },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Fernando Papito",
+        "cpf": "x00000141AA",
+        "email": "johndoe@teste.com",
+        "whatsapp": "81999999999",
+        "address": {
+            "postalcode": "53525-775",
+            "street": "Rua do José Jucá",
+            "number": "90",
+            "details": "90 B",
+            "district": "Centro",
+            "city_state": "Abreu e Lima/PE"
+    },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Fernando Papito",
+        "cpf": "00000014141",
+        "email": "teste.teste.com",
+        "whatsapp": "81999999999",
+        "address": {
+            "postalcode": "53525-775",
+            "street": "Rua do José Jucá",
+            "number": "90",
+            "details": "90 B",
+            "district": "Centro",
+            "city_state": "Abreu e Lima/PE"
+    },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
